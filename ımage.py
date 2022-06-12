@@ -1,7 +1,7 @@
 from PIL import Image
 
 def sinüs_bulma():
-    img = Image.open('/home/ahmtfurkan/Desktop/Fonksiyonlar Python/Stalk/TrigonometriDikUcgen.jpg')
+    img = Image.open('#Trigonometri konum ')
     img.show()
     a = int(input("Lütfen A Kenarını Giriniz :"))
     hip = int(input("Lütfen Hipotenüs Kenarını Giriniz: "))
